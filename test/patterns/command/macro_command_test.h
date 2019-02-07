@@ -1,0 +1,6 @@
+#ifndef PUREMVC_MACRO_COMMAND_TEST_H
+#define PUREMVC_MACRO_COMMAND_TEST_H
+
+void testMacroCommandExecute();
+
+#endif //PUREMVC_MACRO_COMMAND_TEST_H
